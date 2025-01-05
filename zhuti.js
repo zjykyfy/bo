@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         html {    
-            background: url('https://live.yangjunyu.us.kg/logo/合影.jpg') no-repeat center center fixed;
+            background: url('https://live.yangjunyu.ip-ddns.com/logo/合影.jpg') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
 
         html {    
-            background: url('https://live.yangjunyu.us.kg/logo/合影.jpg') no-repeat center center fixed;
+            background: url('https://live.yangjunyu.ip-ddns.com/logo/合影.jpg') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
         
         html {    
-            background: url('https://live.yangjunyu.us.kg/logo/合影.jpg') no-repeat center center fixed;
+            background: url('https://live.yangjunyu.ip-ddns.com/logo/合影.jpg') no-repeat center center fixed;
             background-size: cover;
         }
 
